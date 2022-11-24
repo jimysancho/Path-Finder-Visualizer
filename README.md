@@ -18,5 +18,5 @@ The instructions for using it are very simple:
   
  **Last comments**
  
- If you press the `**M**` key, a maze will be generated for you. It uses some kind of intuitive recursive algorithm, but the results are very satisfactory. 
+ If you press the  **`M`** key, a maze will be generated for you. It uses some kind of intuitive recursive algorithm, but the results are very satisfactory. 
 
