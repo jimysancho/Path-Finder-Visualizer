@@ -1,13 +1,13 @@
 # Path-Finder-Visualizer
 
-## Algorithms
+## Algorithms
 
 These can be found in the `algorithms.py` file. I've implemented three finding algorithms, each of which use their corresponding data structure (`data_structures.py` file):
   1. Depth-First-Search
   2. Breath-First-Search
   3. A*
   
-## How to use it. 
+## How to use it
 
 The instructions for using it are very simple:
 
